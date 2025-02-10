@@ -1,0 +1,104 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Fundamentals of Computer Science",
+            "slug": "cd-fundamentals",
+            "description": "This course offers you an in-depth description of the basic workings of Computer Science.",
+            "price": 99.99,
+            "instructor": "Karan",
+            "isFeatured": true,
+            "image": "/courses/csfundamentas.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Introduction to Programming",
+            "slug": "cd-intro-to-programming",
+            "description": "A beginner's course in programming, covering the basics of syntax and logic.",
+            "price": 79.99,
+            "instructor": "Sara",
+            "isFeatured": false,
+            "image": "/courses/intro-to-programming.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Web Development Essentials",
+            "slug": "cd-web-development",
+            "description": "Learn the fundamentals of HTML, CSS, and JavaScript to create interactive web pages.",
+            "price": 149.99,
+            "instructor": "John",
+            "isFeatured": true,
+            "image": "/courses/web-development.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Data Structures and Algorithms",
+            "slug": "cd-data-structures",
+            "description": "A deep dive into the world of data structures and algorithms for optimizing your code.",
+            "price": 129.99,
+            "instructor": "Emily",
+            "isFeatured": false,
+            "image": "/courses/data-structures.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Machine Learning Basics",
+            "slug": "cd-machine-learning",
+            "description": "Explore the fundamentals of machine learning, including supervised and unsupervised learning.",
+            "price": 199.99,
+            "instructor": "David",
+            "isFeatured": true,
+            "image": "/courses/machine-learning.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Mobile App Development",
+            "slug": "cd-mobile-app-development",
+            "description": "Learn how to create mobile applications for both iOS and Android platforms.",
+            "price": 179.99,
+            "instructor": "Rachel",
+            "isFeatured": false,
+            "image": "/courses/mobile-app-development.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Cloud Computing",
+            "slug": "cd-cloud-computing",
+            "description": "Gain an understanding of cloud services and how to deploy applications on the cloud.",
+            "price": 159.99,
+            "instructor": "Michael",
+            "isFeatured": false,
+            "image": "/courses/cloud-computing.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Cybersecurity Fundamentals",
+            "slug": "cd-cybersecurity",
+            "description": "A comprehensive guide to understanding cybersecurity principles and practices.",
+            "price": 139.99,
+            "instructor": "Sophia",
+            "isFeatured": true,
+            "image": "/courses/cybersecurity.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Database Management Systems",
+            "slug": "cd-database-management",
+            "description": "Learn how to design, implement, and manage databases using popular systems like MySQL and MongoDB.",
+            "price": 119.99,
+            "instructor": "James",
+            "isFeatured": false,
+            "image": "/courses/database-management.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Artificial Intelligence",
+            "slug": "cd-artificial-intelligence",
+            "description": "Dive into AI concepts and techniques, including neural networks and natural language processing.",
+            "price": 209.99,
+            "instructor": "Lily",
+            "isFeatured": true,
+            "image": "/courses/artificial-intelligence.jpg"
+        }
+    ]
+}
