@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
   title: "AcadTech Next",
@@ -16,6 +17,9 @@ export default function RootLayout({children}: Readonly<{children: React.ReactNo
           <Navbar/>
         </div>
         {children}
+        <div className="w-full flex items-center justify-center">
+          <Footer/>
+        </div>
       </body>
     </html>
   );

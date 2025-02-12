@@ -13,15 +13,15 @@ function Navbar({ className }: { className?: string }) {
                 <MenuItem setActive={setActive} active={active} item="Home">
                 </MenuItem>
             </Link>
-            <MenuItem setActive={setActive} active={active} item="Courses">
+            <MenuItem setActive={setActive} active={active} item="Explore &darr;">
                 <div className="flex flex-col space-y-4 text-sm text-center">
-                    <HoveredLink href="/courses">All Courses</HoveredLink>
-                    <HoveredLink href="/featured">Featured Courses</HoveredLink>
-                    <HoveredLink href="/foundation">Foundation Courses</HoveredLink>
-                    <HoveredLink href="/advanced">Advanced Courses</HoveredLink>
+                    <HoveredLink href="#coursecard">Featured Courses</HoveredLink>
+                    <HoveredLink href="#whycs">Why Computer Science?</HoveredLink>
+                    <HoveredLink href="#toparticles">Top Articles from CS Industry</HoveredLink>
+                    <HoveredLink href="#toptech">Top 7 Computer Science Technologies</HoveredLink>
                 </div>
             </MenuItem>
-            <Link href={"/contsact"}>
+            <Link href={"/contact"}>
                 <MenuItem setActive={setActive} active={active} item="Contact Us">
                 </MenuItem>
             </Link>
@@ -29,5 +29,4 @@ function Navbar({ className }: { className?: string }) {
     </div>
   )
 }
-
 export default Navbar

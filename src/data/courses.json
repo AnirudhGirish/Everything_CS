@@ -3,57 +3,42 @@
         {
             "id": 1,
             "title": "Fundamentals of Computer Science",
-            "slug": "cd-fundamentals",
+            "slug": "https://www.youtube.com/watch?v=-AP1nNK3bRs&list=PLWPirh4EWFpF_2T13UeEgZWZHc8nHBuXp",
             "description": "This course offers you an in-depth description of the basic workings of Computer Science.",
-            "price": 99.99,
-            "instructor": "Karan",
-            "isFeatured": true,
-            "image": "/courses/csfundamentas.jpg"
+            "isFeatured": true
         },
         {
             "id": 2,
             "title": "Introduction to Programming",
-            "slug": "cd-intro-to-programming",
+            "slug": "https://www.youtube.com/watch?v=OvKCESUCWII&list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V",
             "description": "A beginner's course in programming, covering the basics of syntax and logic.",
-            "price": 79.99,
-            "instructor": "Sara",
-            "isFeatured": false,
-            "image": "/courses/intro-to-programming.jpg"
+            "isFeatured": false
         },
         {
             "id": 3,
             "title": "Web Development Essentials",
-            "slug": "cd-web-development",
+            "slug": "https://www.youtube.com/watch?v=l1EssrLxt7E&list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n",
             "description": "Learn the fundamentals of HTML, CSS, and JavaScript to create interactive web pages.",
-            "price": 149.99,
-            "instructor": "John",
-            "isFeatured": true,
-            "image": "/courses/web-development.jpg"
+            "isFeatured": true
         },
         {
             "id": 4,
             "title": "Data Structures and Algorithms",
-            "slug": "cd-data-structures",
+            "slug": "https://www.youtube.com/watch?v=-D5u5HJbISc&list=PLqleLpAMfxGAf5rrWdm92WMK3-gsrxgz5",
             "description": "A deep dive into the world of data structures and algorithms for optimizing your code.",
-            "price": 129.99,
-            "instructor": "Emily",
-            "isFeatured": false,
-            "image": "/courses/data-structures.jpg"
+            "isFeatured": false
         },
         {
             "id": 5,
             "title": "Machine Learning Basics",
-            "slug": "cd-machine-learning",
+            "slug": "https://www.youtube.com/watch?v=kz184QIO4ZQ&list=PLxCzCOWd7aiEXg5BV10k9THtjnS48yI-T",
             "description": "Explore the fundamentals of machine learning, including supervised and unsupervised learning.",
-            "price": 199.99,
-            "instructor": "David",
-            "isFeatured": true,
-            "image": "/courses/machine-learning.jpg"
+            "isFeatured": true
         },
         {
             "id": 6,
             "title": "Mobile App Development",
-            "slug": "cd-mobile-app-development",
+            "slug": "https://www.youtube.com/watch?v=InigFUSiPl8&list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd",
             "description": "Learn how to create mobile applications for both iOS and Android platforms.",
             "price": 179.99,
             "instructor": "Rachel",
@@ -63,42 +48,30 @@
         {
             "id": 7,
             "title": "Cloud Computing",
-            "slug": "cd-cloud-computing",
+            "slug": "https://www.youtube.com/watch?v=dmGybCohHsw&list=PLxCzCOWd7aiHRHVUtR-O52MsrdUSrzuy4",
             "description": "Gain an understanding of cloud services and how to deploy applications on the cloud.",
-            "price": 159.99,
-            "instructor": "Michael",
-            "isFeatured": false,
-            "image": "/courses/cloud-computing.jpg"
+            "isFeatured": false
         },
         {
             "id": 8,
             "title": "Cybersecurity Fundamentals",
-            "slug": "cd-cybersecurity",
+            "slug": "https://www.youtube.com/watch?v=kmJlnUfMd7I&list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE",
             "description": "A comprehensive guide to understanding cybersecurity principles and practices.",
-            "price": 139.99,
-            "instructor": "Sophia",
-            "isFeatured": true,
-            "image": "/courses/cybersecurity.jpg"
+            "isFeatured": true
         },
         {
             "id": 9,
             "title": "Database Management Systems",
-            "slug": "cd-database-management",
+            "slug": "https://www.youtube.com/watch?v=OMwgGL3lHlI&list=PLBlnK6fEyqRiyryTrbKHX1Sh9luYI0dhX",
             "description": "Learn how to design, implement, and manage databases using popular systems like MySQL and MongoDB.",
-            "price": 119.99,
-            "instructor": "James",
-            "isFeatured": false,
-            "image": "/courses/database-management.jpg"
+            "isFeatured": false
         },
         {
             "id": 10,
             "title": "Artificial Intelligence",
-            "slug": "cd-artificial-intelligence",
+            "slug": "https://www.youtube.com/watch?v=kmeaG_BQZ7M&list=PLrjkTql3jnm_yol-ZK1QqPSn5YSg0NF9r",
             "description": "Dive into AI concepts and techniques, including neural networks and natural language processing.",
-            "price": 209.99,
-            "instructor": "Lily",
-            "isFeatured": true,
-            "image": "/courses/artificial-intelligence.jpg"
+            "isFeatured": true
         }
     ]
 }
